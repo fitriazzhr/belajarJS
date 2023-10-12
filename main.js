@@ -28,8 +28,8 @@
 //             document.write("Keep Trying");
 //     }
 
-let x = 6
-let y = 3
+// let x = 6
+// let y = 3
 
     // if (x<10 && y>1) {
     //     document.write("True");
@@ -74,11 +74,11 @@ let y = 3
 // document.write(x==6||y==5);
 // document.write(!(x==y));
 
-let p = document.querySelector("p")
-let button = document.querySelector("button")
-let input = document.querySelector("input")
-button.addEventListener('click', function(){
-    let isi = input.value
-    console.log(isi)
-    p.innerHTML = isi
-})
+// let p = document.querySelector("p")
+// let button = document.querySelector("button")
+// let input = document.querySelector("input")
+// button.addEventListener('click', function(){
+    // let isi = input.value
+    // console.log(isi)
+    // p.innerHTML = isi
+// })
